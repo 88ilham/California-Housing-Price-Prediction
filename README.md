@@ -50,11 +50,6 @@ For a **$500,000 home**:
 
 ---
 
-## 🛠️ Installation
-git clone https://github.com/yourusername/california-housing-prediction.git
-cd california-housing-prediction
-pip install -r requirements.txt
-
 ## 📂 Dataset
 Uses the **California Housing Dataset** (`california_housing.csv`) with features:
 - `median_income`
