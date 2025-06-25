@@ -1,4 +1,4 @@
-# 🏠 California Housing Price Prediction
+# [WIP] 🏠 California Housing Price Prediction
 
 *A data-driven machine learning solution for accurate home valuation in California's competitive real estate market.*
 
