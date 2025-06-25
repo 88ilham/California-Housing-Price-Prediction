@@ -5,8 +5,6 @@
 ## 📌 Project Overview
 This project develops a predictive model to estimate California home prices using key features like location, bedrooms, and income levels. With **83.2% explanatory power (R²)** and **±17.8% error (MAPE)**, it helps sellers and agents optimize pricing strategies.
 
-Here's a concise yet clear way to communicate the model's accuracy and error metrics in your GitHub README, using both technical and business-friendly language:
-
 ---
 
 ### **📈 Model Performance**
